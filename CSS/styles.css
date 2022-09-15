@@ -1,0 +1,25 @@
+
+body{
+    background-color: #97D2EC;
+    
+}
+hr{
+   color: bisque;
+   border-style: none;
+   border-top-style: ridge;
+   border-color: #fffad6;
+   border-width: 10px;
+   width: 13%;
+}
+h1{
+    color: #58574b;
+    text-align: center;
+}
+h3{
+    color: #58574b;
+    text-align: center;
+
+}
+img{
+    background-color: chartreuse;
+}
